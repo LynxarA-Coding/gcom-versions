@@ -1,1 +1,2 @@
 2.7.2
+Fixed bug that would break menu if Hint was toggled off
