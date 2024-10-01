@@ -1,3 +1,2 @@
-2.7.3
-- Fixed a bug that would break the menu if Hint feature was toggled off
-- Implemented changelog feature
+2.7.4
+- Fixed a bug that made Passive mode not work due to changes in Icon code
