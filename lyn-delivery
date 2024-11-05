@@ -1,3 +1,3 @@
-1.1.6
-- Added Borders to UI
-- Fixed buttons in MyOrders
+1.1.8
+- Fixed Limit Bug
+- Now bags have different settings based on gender
